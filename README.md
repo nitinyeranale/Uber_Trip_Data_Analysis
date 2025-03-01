@@ -29,3 +29,27 @@ This project analyzes Uber ride data to extract key insights on ride demand, pea
 The dataset includes details on Uber rides, such as pickup/drop-off locations, timestamps, and trip distances.
 
 ## 📷 Sample Visualizations
+
+![Ride Demand](https://github.com/nitinyeranale/Uber_Trip_Data_Analysis/blob/main/Images/image1.png)
+![Ride Demand](https://github.com/nitinyeranale/Uber_Trip_Data_Analysis/blob/main/Images/image2.png)
+
+## 🚀 Steps for Cloning the Project
+1. **Clone the Repository**:
+   ```
+   git clone https://github.com/nitinyeranale/Uber_Trip_Data_Analysis
+   ```
+2. **Navigate to the Project Directory**:
+   ```
+   cd Uber_Trip_Data_Analysis
+   ```
+3. **Install the Required Libraries**:
+   ```
+   pip install -r requirements.txt
+   ```
+4. **Run the Jupyter Notebook**:
+   ```
+   jupyter notebook Uber_Trip_Data_Analysis.ipynb
+   ```
+
+## 📢 Contributing
+Feel free to fork this repository, make enhancements, and submit a pull request. Contributions are welcome! 🚀
